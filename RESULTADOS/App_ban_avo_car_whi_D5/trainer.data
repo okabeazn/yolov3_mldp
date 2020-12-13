@@ -1,0 +1,5 @@
+classes=5
+train=/content/DATASET5/train.txt
+test=/content/DATASET5/valid.txt
+names=/content/DATASET5/classes.names
+backup=/content/drive/MyDrive/MLPD/Proyecto/RESULTADOS/App_ban_avo_car_whi_D5/

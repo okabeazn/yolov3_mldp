@@ -1,0 +1,270 @@
+/content/DATASET5/images/Plum51.png
+/content/DATASET5/images/Pitaya00150.png
+/content/DATASET5/images/MVIMG_20201209_104710.jpg
+/content/DATASET5/images/Carambola 001431.png
+/content/DATASET5/images/Banana02653.png
+/content/DATASET5/images/122red applee01301122.png
+/content/DATASET5/images/Pitaya00144.png
+/content/DATASET5/images/Pitaya00153.png
+/content/DATASET5/images/Carambola 0010.png
+/content/DATASET5/images/MVIMG_20201209_110713.jpg
+/content/DATASET5/images/Red Applee45.png
+/content/DATASET5/images/136red applee01501136.png
+/content/DATASET5/images/scene13101.png
+/content/DATASET5/images/Carambola 0036.png
+/content/DATASET5/images/Orange0056.png
+/content/DATASET5/images/ne03761.png
+/content/DATASET5/images/MVIMG_20201209_104946.jpg
+/content/DATASET5/images/MVIMG_20201209_110021.jpg
+/content/DATASET5/images/MVIMG_20201209_110237.jpg
+/content/DATASET5/images/Banana02473.png
+/content/DATASET5/images/MVIMG_20201209_110537.jpg
+/content/DATASET5/images/Kiwi A0047.png
+/content/DATASET5/images/IMG_20201209_125638.jpg
+/content/DATASET5/images/Orange0068.png
+/content/DATASET5/images/IMG_20201209_125628.jpg
+/content/DATASET5/images/194red applee02626194.png
+/content/DATASET5/images/Banana01963.png
+/content/DATASET5/images/Apple 2.png
+/content/DATASET5/images/Banana02.png
+/content/DATASET5/images/Banana02583.png
+/content/DATASET5/images/Carambola 001422.png
+/content/DATASET5/images/Apple 32.png
+/content/DATASET5/images/Plum36.png
+/content/DATASET5/images/Muskmelon 00100.png
+/content/DATASET5/images/Apple 658.png
+/content/DATASET5/images/Apple 13.png
+/content/DATASET5/images/Banana02971.png
+/content/DATASET5/images/MVIMG_20201209_104415.jpg
+/content/DATASET5/images/IMG_20201209_125633_1.jpg
+/content/DATASET5/images/Orange0063.png
+/content/DATASET5/images/Banana02469.png
+/content/DATASET5/images/Banana02997.png
+/content/DATASET5/images/Apple 73.png
+/content/DATASET5/images/Carambola 001486.png
+/content/DATASET5/images/Carambola 0080.png
+/content/DATASET5/images/Carambola 0031.png
+/content/DATASET5/images/Banana02179.png
+/content/DATASET5/images/MVIMG_20201209_104700.jpg
+/content/DATASET5/images/Carambola 0028.png
+/content/DATASET5/images/MVIMG_20201209_110057.jpg
+/content/DATASET5/images/scene12981.png
+/content/DATASET5/images/Muskmelon 00104.png
+/content/DATASET5/images/Apple 3.png
+/content/DATASET5/images/Orange0067.png
+/content/DATASET5/images/Carambola 001420.png
+/content/DATASET5/images/Carambola 0044.png
+/content/DATASET5/images/Banana0182.png
+/content/DATASET5/images/MVIMG_20201209_111047.jpg
+/content/DATASET5/images/Plum34.png
+/content/DATASET5/images/MVIMG_20201209_110916.jpg
+/content/DATASET5/images/Orange0057.png
+/content/DATASET5/images/Orange0058.png
+/content/DATASET5/images/Carambola 0066.png
+/content/DATASET5/images/MVIMG_20201209_104324.jpg
+/content/DATASET5/images/Plum43.png
+/content/DATASET5/images/Kiwi A0061.png
+/content/DATASET5/images/Banana0163.png
+/content/DATASET5/images/IMG_20201209_125632.jpg
+/content/DATASET5/images/MVIMG_20201209_111041.jpg
+/content/DATASET5/images/Carambola 001358.png
+/content/DATASET5/images/MVIMG_20201209_110738.jpg
+/content/DATASET5/images/Plum45.png
+/content/DATASET5/images/Banana0154.png
+/content/DATASET5/images/Apple 47.png
+/content/DATASET5/images/Banana0100.png
+/content/DATASET5/images/Banana0136.png
+/content/DATASET5/images/MVIMG_20201209_105016.jpg
+/content/DATASET5/images/Banana010.png
+/content/DATASET5/images/Carambola 001718.png
+/content/DATASET5/images/Apple 17.png
+/content/DATASET5/images/Orange0073.png
+/content/DATASET5/images/43red applee0000143.png
+/content/DATASET5/images/Apple 83.png
+/content/DATASET5/images/Carambola 0067.png
+/content/DATASET5/images/Banana0181.png
+/content/DATASET5/images/Carambola 0093.png
+/content/DATASET5/images/Carambola 001906.png
+/content/DATASET5/images/Kiwi A0048.png
+/content/DATASET5/images/Banana02034.png
+/content/DATASET5/images/MVIMG_20201209_110642.jpg
+/content/DATASET5/images/Carambola 001654.png
+/content/DATASET5/images/Apple 57.png
+/content/DATASET5/images/MVIMG_20201209_110731.jpg
+/content/DATASET5/images/MVIMG_20201209_111136.jpg
+/content/DATASET5/images/Apple 46.png
+/content/DATASET5/images/Carambola 001597.png
+/content/DATASET5/images/Apple 89.png
+/content/DATASET5/images/Orange0070.png
+/content/DATASET5/images/Apple 58.png
+/content/DATASET5/images/Carambola 001562.png
+/content/DATASET5/images/Carambola 009.png
+/content/DATASET5/images/Carambola 001542.png
+/content/DATASET5/images/Carambola 002.png
+/content/DATASET5/images/MVIMG_20201209_110534.jpg
+/content/DATASET5/images/Carambola 0032.png
+/content/DATASET5/images/MVIMG_20201209_105019.jpg
+/content/DATASET5/images/Plum44.png
+/content/DATASET5/images/Apple 684.png
+/content/DATASET5/images/Banana0134.png
+/content/DATASET5/images/Carambola 0025.png
+/content/DATASET5/images/1red applee02901.png
+/content/DATASET5/images/Banana01980.png
+/content/DATASET5/images/Banana02632.png
+/content/DATASET5/images/Apple 54.png
+/content/DATASET5/images/MVIMG_20201209_105004.jpg
+/content/DATASET5/images/Apple Ce08551.png
+/content/DATASET5/images/Banana02641.png
+/content/DATASET5/images/MVIMG_20201209_110748.jpg
+/content/DATASET5/images/MVIMG_20201209_110703.jpg
+/content/DATASET5/images/Banana0568.png
+/content/DATASET5/images/Banana0175.png
+/content/DATASET5/images/Apple 652.png
+/content/DATASET5/images/MVIMG_20201209_110611.jpg
+/content/DATASET5/images/Plum47.png
+/content/DATASET5/images/Apple 86.png
+/content/DATASET5/images/MVIMG_20201209_104929.jpg
+/content/DATASET5/images/MVIMG_20201209_104440.jpg
+/content/DATASET5/images/Banana0169.png
+/content/DATASET5/images/Banana02595.png
+/content/DATASET5/images/Banana0142.png
+/content/DATASET5/images/Banana013.png
+/content/DATASET5/images/Carambola 001666.png
+/content/DATASET5/images/MVIMG_20201209_104931.jpg
+/content/DATASET5/images/Apple 55.png
+/content/DATASET5/images/Banana0167.png
+/content/DATASET5/images/Apple 29.png
+/content/DATASET5/images/Banana0120.png
+/content/DATASET5/images/MVIMG_20201209_110336.jpg
+/content/DATASET5/images/Kiwi A0058.png
+/content/DATASET5/images/Banana0147.png
+/content/DATASET5/images/MVIMG_20201209_110639.jpg
+/content/DATASET5/images/MVIMG_20201209_111318.jpg
+/content/DATASET5/images/Carambola 0024.png
+/content/DATASET5/images/Apple 53.png
+/content/DATASET5/images/Kiwi A0053.png
+/content/DATASET5/images/Banana03027.png
+/content/DATASET5/images/Carambola 0019.png
+/content/DATASET5/images/Carambola 001628.png
+/content/DATASET5/images/Plum39.png
+/content/DATASET5/images/Carambola 001633.png
+/content/DATASET5/images/MVIMG_20201209_110843.jpg
+/content/DATASET5/images/Banana02133.png
+/content/DATASET5/images/ne03361.png
+/content/DATASET5/images/Banana012.png
+/content/DATASET5/images/scene13181.png
+/content/DATASET5/images/Apple 82.png
+/content/DATASET5/images/Banana0161.png
+/content/DATASET5/images/Banana0135.png
+/content/DATASET5/images/MVIMG_20201209_110126.jpg
+/content/DATASET5/images/Pitaya00156.png
+/content/DATASET5/images/Carambola 0099.png
+/content/DATASET5/images/Banana02654.png
+/content/DATASET5/images/scene05451.png
+/content/DATASET5/images/MVIMG_20201209_110054.jpg
+/content/DATASET5/images/MVIMG_20201209_104717.jpg
+/content/DATASET5/images/Orange0072.png
+/content/DATASET5/images/Banana02646.png
+/content/DATASET5/images/MVIMG_20201209_110856.jpg
+/content/DATASET5/images/Apple 25.png
+/content/DATASET5/images/Apple 98.png
+/content/DATASET5/images/Banana0183.png
+/content/DATASET5/images/Carambola 001621.png
+/content/DATASET5/images/MVIMG_20201209_104436.jpg
+/content/DATASET5/images/Red Applee40.png
+/content/DATASET5/images/Carambola 001464.png
+/content/DATASET5/images/Carambola 001857.png
+/content/DATASET5/images/Red Applee46.png
+/content/DATASET5/images/Apple 88.png
+/content/DATASET5/images/MVIMG_20201209_110914.jpg
+/content/DATASET5/images/Carambola 001357.png
+/content/DATASET5/images/Banana020.png
+/content/DATASET5/images/Banana02012.png
+/content/DATASET5/images/IMG_20201209_125636_1.jpg
+/content/DATASET5/images/MVIMG_20201209_110846.jpg
+/content/DATASET5/images/Apple 67.png
+/content/DATASET5/images/Banana0151.png
+/content/DATASET5/images/MVIMG_20201209_110657_1.jpg
+/content/DATASET5/images/Banana0502.png
+/content/DATASET5/images/Carambola 0071.png
+/content/DATASET5/images/Banana0108.png
+/content/DATASET5/images/Carambola 001530.png
+/content/DATASET5/images/MVIMG_20201209_111033.jpg
+/content/DATASET5/images/MVIMG_20201209_111325_1.jpg
+/content/DATASET5/images/175red applee02301175.png
+/content/DATASET5/images/Carambola 0055.png
+/content/DATASET5/images/Banana0111.png
+/content/DATASET5/images/scene05201.png
+/content/DATASET5/images/Banana0115.png
+/content/DATASET5/images/Carambola 002038.png
+/content/DATASET5/images/Carambola 0033.png
+/content/DATASET5/images/Pitaya00146.png
+/content/DATASET5/images/MVIMG_20201209_104331.jpg
+/content/DATASET5/images/Apple 95.png
+/content/DATASET5/images/Muskmelon 00113.png
+/content/DATASET5/images/Kiwi A0060.png
+/content/DATASET5/images/scene02401.png
+/content/DATASET5/images/MVIMG_20201209_110229.jpg
+/content/DATASET5/images/MVIMG_20201209_110720.jpg
+/content/DATASET5/images/MVIMG_20201209_110659.jpg
+/content/DATASET5/images/Banana0159.png
+/content/DATASET5/images/Carambola 0090.png
+/content/DATASET5/images/scene13021.png
+/content/DATASET5/images/Banana0131.png
+/content/DATASET5/images/MVIMG_20201209_104941.jpg
+/content/DATASET5/images/Carambola 0069.png
+/content/DATASET5/images/Banana02687.png
+/content/DATASET5/images/Apple 76.png
+/content/DATASET5/images/Apple 65.png
+/content/DATASET5/images/Banana0511.png
+/content/DATASET5/images/Carambola 001384.png
+/content/DATASET5/images/Apple 78.png
+/content/DATASET5/images/Banana0521.png
+/content/DATASET5/images/Banana02472.png
+/content/DATASET5/images/MVIMG_20201209_111245.jpg
+/content/DATASET5/images/Carambola 001533.png
+/content/DATASET5/images/MVIMG_20201209_111106.jpg
+/content/DATASET5/images/scene13141.png
+/content/DATASET5/images/Carambola 001956.png
+/content/DATASET5/images/Carambola 001952.png
+/content/DATASET5/images/Carambola 0034.png
+/content/DATASET5/images/Plum48.png
+/content/DATASET5/images/scene05326.png
+/content/DATASET5/images/MVIMG_20201209_104706.jpg
+/content/DATASET5/images/MVIMG_20201209_110918.jpg
+/content/DATASET5/images/scene13061.png
+/content/DATASET5/images/Banana02649.png
+/content/DATASET5/images/MVIMG_20201209_110318.jpg
+/content/DATASET5/images/Banana03010.png
+/content/DATASET5/images/Carambola 0021.png
+/content/DATASET5/images/Apple 51.png
+/content/DATASET5/images/MVIMG_20201209_104412.jpg
+/content/DATASET5/images/Plum40.png
+/content/DATASET5/images/Orange0066.png
+/content/DATASET5/images/MVIMG_20201209_110302.jpg
+/content/DATASET5/images/Apple Ce01291.png
+/content/DATASET5/images/MVIMG_20201209_110322.jpg
+/content/DATASET5/images/Banana02976.png
+/content/DATASET5/images/Apple 38.png
+/content/DATASET5/images/Plum42.png
+/content/DATASET5/images/Muskmelon 00105.png
+/content/DATASET5/images/Muskmelon 00111.png
+/content/DATASET5/images/Banana02109.png
+/content/DATASET5/images/Carambola 0065.png
+/content/DATASET5/images/Apple 26.png
+/content/DATASET5/images/Carambola 001532.png
+/content/DATASET5/images/Apple 683.png
+/content/DATASET5/images/MVIMG_20201209_104612_1.jpg
+/content/DATASET5/images/Carambola 0092.png
+/content/DATASET5/images/MVIMG_20201209_111234.jpg
+/content/DATASET5/images/Apple 80.png
+/content/DATASET5/images/MVIMG_20201209_104353.jpg
+/content/DATASET5/images/MVIMG_20201209_110353.jpg
+/content/DATASET5/images/Carambola 0072.png
+/content/DATASET5/images/Carambola 001509.png
+/content/DATASET5/images/Carambola 001667.png
+/content/DATASET5/images/Banana02566.png
+/content/DATASET5/images/Banana0140.png
+/content/DATASET5/images/Plum46.png
+/content/DATASET5/images/MVIMG_20201209_110228_1.jpg
+/content/DATASET5/images/Banana02531.png
